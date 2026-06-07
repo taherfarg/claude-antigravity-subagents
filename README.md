@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Gemini Subagents — Claude Code × Antigravity" width="100%" />
+</p>
+
 # Gemini Subagents — a Claude × Antigravity skill
 
 > **Manager + workers for building websites.** Your orchestrator agent (Claude) owns the *taste*; cheap, fast **Gemini** workers do the bulk generation. Includes the trick to use **Gemini 3.5 Flash** on a free/consumer account via **Antigravity**.

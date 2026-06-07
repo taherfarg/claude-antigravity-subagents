@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Node / tooling
+node_modules/
+*.log
+.cache/
+
+# Generated specs from real builds (keep the template, ignore working specs)
+specs/
+!skills/**/spec-template.md
